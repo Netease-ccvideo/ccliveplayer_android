@@ -1,0 +1,5 @@
+add_subdirectory(ijkyuv)
+add_subdirectory(ijkutil)
+add_subdirectory(ijksdl)
+add_subdirectory(ijksoundtouch)
+add_subdirectory(ijkplayer)
